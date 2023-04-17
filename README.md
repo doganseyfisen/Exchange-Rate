@@ -1,6 +1,6 @@
 # Exchange-Rate
 
-### This is a basic exchange rate application. I used ***exchangerate.host*** as API. 
+### This is a basic exchange rate application. I used ***fixer.io*** as API. 
 
 ### You can change the API key in ***forex.py*** file with your own free ***API key*** which you can get from ***APILayer***.
 
